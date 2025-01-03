@@ -10,7 +10,7 @@
 ## Instalação
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/euantonio/chatbot-project.git
 cd chatbot-project
 ```
 
